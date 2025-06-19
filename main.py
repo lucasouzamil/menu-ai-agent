@@ -1,5 +1,5 @@
 import asyncio
-from agent import meal_agent
+from agente import agente_garcon
 from agents import Runner
 from openai.types.responses import ResponseTextDeltaEvent
 
@@ -23,7 +23,7 @@ async def main():
 
     try:
       print("Chef IA: Um minuto, estou pensando..\n")
-      result = Runner.run_streamed(meal_agent, user_input)
+      result = Runner.run_streamed(agente_garcon, user_input)
       async for event in result.stream_events():
         if event.type == "raw_response_event" and isinstance(event.data, ResponseTextDeltaEvent):
           print(event.data.delta, end="", flush=True)
