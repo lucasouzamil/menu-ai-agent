@@ -112,7 +112,7 @@ Após a refatoração das intruções do agente, que incluiu a regra para ignora
 
 * **Análise:** No mesmo Teste 5, o agente agora seguiu a nova regra: ignorou a palavra "prático" e focou no critério concreto "intolerante a lactose". Como resultado, ele chamou a ferramenta de busca apenas com o filtro relevante (`tags=['sem lactose']`) e forneceu uma lista útil de pratos.
 
-## 6. Análise Estratégica e Evolução do Protótipo
+## 6. Análise e Evolução do Protótipo
 
 Durante o desenvolvimento deste protótipo, que é funcional e atende às instruções do case, me surgiram alguns questionamentos sobre quais seriam as melhores abordagens para uma implementação real em um ambiente de produção, caso eu precisasse colocá-lo em prática. Apesar de adequado dentro do escopo proposto, a solução apresentada neste projeto provavelmente não seria a mais adequada para um sistema em escala, com um catálogo maior e requisitos de performance e custoso.
 
