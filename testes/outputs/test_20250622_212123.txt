@@ -1,0 +1,207 @@
+============================================================
+    RELATÓRIO DE TESTES - AGENTE GARÇOM AI
+    Executado em: 22/06/2025 21:21:23
+============================================================
+
+--- INÍCIO DO TESTE 1 ---
+
+PERGUNTA: Quero um prato apimentado, que tenha proteína
+
+RESPOSTA DO AGENTE:
+--------------------
+Aqui estão algumas opções apimentadas e ricas em proteína para você:
+
+1. **Frango apimentado com broto de feijão**  
+   - Preço: R$ 45,00  
+   - Descrição: Peito de frango grelhado servido com broto de feijão e molho picante.
+
+2. **Camarão ao curry apimentado**  
+   - Preço: R$ 52,50  
+   - Descrição: Camarões salteados em molho curry picante com leite de coco sem lactose.
+
+3. **Carne de panela apimentada**  
+   - Preço: R$ 49,90  
+   - Descrição: Carne bovina cozida lentamente com pimenta dedo-de-moça e especiarias.
+
+4. **Tofu apimentado com mix de legumes**  
+   - Preço: R$ 38,00  
+   - Descrição: Cubos de tofu grelhado com mix de legumes e pimenta caiena. (Vegano e sem lactose)
+
+5. **Frango xadrez sem glúten**  
+   - Preço: R$ 47,00  
+   - Descrição: Frango salteado com pimentões e castanhas. (Sem glúten)
+
+Se precisar de mais informações ou ajuda, estou à disposição!
+--------------------
+
+--- FIM DO TESTE 1 ---
+
+============================================================
+
+--- INÍCIO DO TESTE 2 ---
+
+PERGUNTA: Prato sem lactose de até R$55
+
+RESPOSTA DO AGENTE:
+--------------------
+Aqui estão algumas opções deliciosas sem lactose por até R$55:
+
+1. **Camarão ao curry apimentado** - R$52,50
+   - Camarões salteados em molho curry picante com leite de coco sem lactose.
+
+2. **Tofu apimentado com mix de legumes** - R$38,00
+   - Cubos de tofu grelhado com mix de legumes e pimenta caiena.
+
+3. **Strogonoff de frango sem lactose** - R$53,00
+   - Frango desfiado ao molho cremoso sem lactose.
+
+4. **Peito de frango grelhado com legumes no vapor** - R$42,00
+   - Peito de frango grelhado servido com legumes levemente temperados.
+
+5. **Lasanha de berinjela sem lactose** - R$55,00
+   - Camadas de berinjela com molho de tomate e queijo vegano.
+
+6. **Tabule com falafel** - R$41,00
+   - Salada de trigo para quibe, tomate, salsa e bolinhos de falafel.
+
+7. **Salada Caesar sem lactose** - R$34,00
+   - Alface, frango grelhado, croutons e molho Caesar sem lactose.
+
+8. **Espetinho de frango com legumes** - R$42,00
+   - Espetinho grelhado de frango, pimentão e cebola.
+
+9. **Frango ao molho mostarda** - R$52,00
+   - Peito de frango com molho de mostarda e mel.
+
+10. **Lasanha de espinafre sem lactose** - R$54,00
+    - Lasanha de espinafre com molho branco vegano.
+
+Espero que você encontre algo que agrade! Se precisar de mais alguma coisa, é só avisar.
+--------------------
+
+--- FIM DO TESTE 2 ---
+
+============================================================
+
+--- INÍCIO DO TESTE 3 ---
+
+PERGUNTA: Refeição saudável com proteína, arroz e legumes
+
+RESPOSTA DO AGENTE:
+--------------------
+Aqui estão algumas sugestões de refeições saudáveis com proteína, arroz e legumes:
+
+1. **Peito de Frango Grelhado com Legumes no Vapor**
+   - Preço: R$ 42,00
+   - Descrição: Peito de frango grelhado servido com legumes levemente temperados.
+   - Tags: Sem lactose
+
+2. **Arroz de Forno Light**
+   - Preço: R$ 40,00
+   - Descrição: Arroz integral com legumes assados e queijo vegano.
+   - Tags: Vegano
+
+3. **Tofu Apimentado com Mix de Legumes**
+   - Preço: R$ 38,00
+   - Descrição: Cubos de tofu grelhado com mix de legumes e pimenta caiena.
+   - Tags: Picante, Vegano, Sem lactose
+
+4. **Espetinho de Frango com Legumes**
+   - Preço: R$ 42,00
+   - Descrição: Espetinho grelhado de frango, pimentão e cebola.
+   - Tags: Sem lactose
+
+5. **Salada de Grão-de-bico com Atum**
+   - Preço: R$ 44,00
+   - Descrição: Grão-de-bico, atum, cebola roxa e ervas.
+
+Essas opções são deliciosas e equilibradas! Se precisar de mais informações ou tiver alguma preferência específica, é só me avisar.
+--------------------
+
+--- FIM DO TESTE 3 ---
+
+============================================================
+
+--- INÍCIO DO TESTE 4 ---
+
+PERGUNTA: Pratos veganos de até R$40
+
+RESPOSTA DO AGENTE:
+--------------------
+Aqui estão algumas deliciosas opções veganas até R$40:
+
+1. **Tofu apimentado com mix de legumes** - R$38.00
+   - Cubos de tofu grelhado com mix de legumes e pimenta caiena.
+   - Tags: Picante, Vegano, Sem lactose
+
+2. **Quinoa com grão-de-bico e legumes** - R$35.00
+   - Salada quente de quinoa, grão-de-bico, pimentões e cenoura.
+   - Tags: Vegano
+
+3. **Salada de lentilha com tahine** - R$32.00
+   - Lentilhas, tomate, pepino e molho de tahine.
+   - Tags: Vegano, Sem gluten
+
+4. **Escondidinho de mandioquinha vegano** - R$39.50
+   - Purê de mandioquinha e proteína de soja.
+   - Tags: Vegano
+
+5. **Tacos de jaca desfiada** - R$37.00
+   - Tortillas recheadas com jaca temperada e molho apimentado.
+   - Tags: Vegano, Picante
+
+6. **Panqueca de banana sem açúcar** - R$27.00
+   - Panqueca de banana e aveia sem adição de açúcar.
+   - Tags: Sem açúcar, Vegano
+
+7. **Yakissoba de legumes** - R$38.00
+   - Macarrão oriental com mix de legumes e tofu.
+   - Tags: Vegano
+
+8. **Espaguete de abobrinha ao pesto** - R$36.00
+   - Tiras de abobrinha com molho pesto e nozes.
+   - Tags: Vegano
+
+9. **Bowl de açaí sem açúcar** - R$28.00
+   - Açaí puro com frutas e granola sem adição de açúcar.
+   - Tags: Sem açúcar, Vegano
+
+10. **Tofu ao molho agridoce** - R$40.00
+    - Cubos de tofu com molho agridoce e gergelim.
+    - Tags: Vegano
+
+Se precisar de mais informações sobre algum prato, estou à disposição!
+--------------------
+
+--- FIM DO TESTE 4 ---
+
+============================================================
+
+--- INÍCIO DO TESTE 5 ---
+
+PERGUNTA: Quero um almoço prático, sou intolerante a lactose
+
+RESPOSTA DO AGENTE:
+--------------------
+Desculpe, não encontrei nenhum prato que atenda aos critérios de "sem lactose" e "prático". Talvez possamos tentar uma busca mais ampla. Quer especificar outro tipo de prato ou ingrediente?
+--------------------
+
+--- FIM DO TESTE 5 ---
+
+============================================================
+
+--- INÍCIO DO TESTE 6 ---
+
+PERGUNTA: Quero o prato mais barato
+
+RESPOSTA DO AGENTE:
+--------------------
+O prato mais barato que temos é a **Panqueca de banana sem açúcar**, que custa R$27,00. É uma deliciosa panqueca de banana e aveia sem adição de açúcar. Além disso, é um prato vegano!
+
+Gostaria de experimentar?
+--------------------
+
+--- FIM DO TESTE 6 ---
+
+============================================================
+

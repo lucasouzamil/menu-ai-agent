@@ -1,6 +1,10 @@
 import json
 from typing import List, Optional
 from agents import function_tool
+import os
+
+project_root = os.path.dirname(os.path.abspath(__file__))
+caminho_cardapio = os.path.join(project_root, 'cardapio.json')
 
 @function_tool
 def buscar_cardapio(
@@ -9,16 +13,13 @@ def buscar_cardapio(
   palavras_chave: Optional[List[str]] = None,
   ordenar_por_preco: Optional[str] = None
 ) -> str:
-  print("preco_maximo: ", preco_maximo)
-  print("tags: ", tags)
-  print("palavras_chave: ", palavras_chave)
-  print("ordenar_por_preco: ", ordenar_por_preco)
-
   try:
-    with open('cardapio.json', 'r', encoding='utf-8') as f:
+    with open(caminho_cardapio, 'r', encoding='utf-8') as f:
       cardapio = json.load(f)
   except FileNotFoundError:
-    return json.dumps({"erro": "Arquivo cardapio.json não encontrado."})
+    return json.dumps({"erro": f"Arquivo cardapio.json não encontrado no caminho: {caminho_cardapio}"})
+  except json.JSONDecodeError:
+    return json.dumps({"erro": "O arquivo cardapio.json está mal formatado e não pôde ser lido."})
 
   resultados = []
   for item in cardapio:
@@ -37,11 +38,11 @@ def buscar_cardapio(
 
     if palavras_chave:
       conteudo = f"{item['nome']} {item['descricao']}".lower()
-      if not all(palavra.lower() in conteudo for palavra in palavras_chave):
+      palavras_encontradas = [palavra for palavra in palavras_chave if palavra.lower() in conteudo]
+      if not palavras_encontradas:
         corresponde_criterios = False
       else:
-        pontuacao += len(palavras_chave)
-
+        pontuacao += len(palavras_encontradas)
     if corresponde_criterios:
       resultados.append({'item': item, 'pontuacao': pontuacao})
 

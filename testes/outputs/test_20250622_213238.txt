@@ -1,0 +1,214 @@
+============================================================
+    RELATÓRIO DE TESTES - AGENTE GARÇOM AI
+    Executado em: 22/06/2025 21:32:38
+============================================================
+
+--- INÍCIO DO TESTE 1 ---
+
+PERGUNTA: Quero um prato apimentado, que tenha proteína
+
+RESPOSTA DO AGENTE:
+--------------------
+Aqui estão algumas opções apimentadas e ricas em proteína para você:
+
+1. **Frango apimentado com broto de feijão** - R$ 45,00  
+   Peito de frango grelhado servido com broto de feijão e molho picante.
+
+2. **Camarão ao curry apimentado** - R$ 52,50  
+   Camarões salteados em molho curry picante com leite de coco sem lactose.
+
+3. **Carne de panela apimentada** - R$ 49,90  
+   Carne bovina cozida lentamente com pimenta dedo-de-moça e especiarias.
+
+4. **Tofu apimentado com mix de legumes** - R$ 38,00  
+   Cubos de tofu grelhado com mix de legumes e pimenta caiena. (Opção vegana e sem lactose)
+
+5. **Frango xadrez sem glúten** - R$ 47,00  
+   Frango salteado com pimentões e castanhas.
+
+Se precisar de mais alguma coisa, estou aqui para ajudar!
+--------------------
+
+--- FIM DO TESTE 1 ---
+
+============================================================
+
+--- INÍCIO DO TESTE 2 ---
+
+PERGUNTA: Prato sem lactose de até R$55
+
+RESPOSTA DO AGENTE:
+--------------------
+Aqui estão algumas opções deliciosas sem lactose, todas por até R$55:
+
+1. **Camarão ao curry apimentado** - R$52,50  
+   Camarões salteados em molho curry picante com leite de coco sem lactose.  
+   *Tags: picante, sem lactose*
+
+2. **Tofu apimentado com mix de legumes** - R$38,00  
+   Cubos de tofu grelhado com mix de legumes e pimenta caiena.  
+   *Tags: picante, vegano, sem lactose*
+
+3. **Strogonoff de frango sem lactose** - R$53,00  
+   Frango desfiado ao molho cremoso sem lactose.  
+   *Tags: sem lactose*
+
+4. **Peito de frango grelhado com legumes no vapor** - R$42,00  
+   Peito de frango grelhado servido com legumes levemente temperados.  
+   *Tags: sem lactose*
+
+5. **Lasanha de berinjela sem lactose** - R$55,00  
+   Camadas de berinjela com molho de tomate e queijo vegano.  
+   *Tags: vegano, sem lactose*
+
+6. **Tabule com falafel** - R$41,00  
+   Salada de trigo para quibe, tomate, salsa e bolinhos de falafel.  
+   *Tags: vegano, sem lactose, sem gluten*
+
+7. **Salada Caesar sem lactose** - R$34,00  
+   Alface, frango grelhado, croutons e molho Caesar sem lactose.  
+   *Tags: sem lactose*
+
+8. **Espetinho de frango com legumes** - R$42,00  
+   Espetinho grelhado de frango, pimentão e cebola.  
+   *Tags: sem lactose*
+
+9. **Frango ao molho mostarda** - R$52,00  
+   Peito de frango com molho de mostarda e mel.  
+   *Tags: sem lactose*
+
+10. **Lasanha de espinafre sem lactose** - R$54,00  
+    Lasanha de espinafre com molho branco vegano.  
+    *Tags: vegano, sem lactose*
+
+Se precisar de mais alguma informação, estarei aqui!
+--------------------
+
+--- FIM DO TESTE 2 ---
+
+============================================================
+
+--- INÍCIO DO TESTE 3 ---
+
+PERGUNTA: Refeição saudável com proteína, arroz e legumes
+
+RESPOSTA DO AGENTE:
+--------------------
+Aqui estão algumas opções saudáveis e ricas em proteína, com arroz e legumes:
+
+1. **Tofu apimentado com mix de legumes**  
+   - Preço: R$ 38,00  
+   - Descrição: Cubos de tofu grelhado com mix de legumes e pimenta caiena.  
+   - Tags: Picante, Vegano, Sem Lactose  
+
+2. **Peito de frango grelhado com legumes no vapor**  
+   - Preço: R$ 42,00  
+   - Descrição: Peito de frango grelhado servido com legumes levemente temperados.  
+   - Tags: Sem Lactose  
+
+3. **Espetinho de frango com legumes**  
+   - Preço: R$ 42,00  
+   - Descrição: Espetinho grelhado de frango, pimentão e cebola.  
+   - Tags: Sem Lactose  
+
+4. **Quinoa com grão-de-bico e legumes**  
+   - Preço: R$ 35,00  
+   - Descrição: Salada quente de quinoa, grão-de-bico, pimentões e cenoura.  
+   - Tags: Vegano  
+
+Se precisar de mais informações ou outras opções, fique à vontade para pedir!
+--------------------
+
+--- FIM DO TESTE 3 ---
+
+============================================================
+
+--- INÍCIO DO TESTE 4 ---
+
+PERGUNTA: Pratos veganos de até R$40
+
+RESPOSTA DO AGENTE:
+--------------------
+Aqui estão algumas deliciosas opções veganas até R$40:
+
+1. **Tofu apimentado com mix de legumes** - R$38.0
+   - Cubos de tofu grelhado com mix de legumes e pimenta caiena. [Picante, Sem Lactose]
+
+2. **Quinoa com grão-de-bico e legumes** - R$35.0
+   - Salada quente de quinoa, grão-de-bico, pimentões e cenoura.
+
+3. **Salada de lentilha com tahine** - R$32.0
+   - Lentilhas, tomate, pepino e molho de tahine. [Sem Glúten]
+
+4. **Escondidinho de mandioquinha vegano** - R$39.5
+   - Purê de mandioquinha e proteína de soja.
+
+5. **Tacos de jaca desfiada** - R$37.0
+   - Tortillas recheadas com jaca temperada e molho apimentado. [Picante]
+
+6. **Panqueca de banana sem açúcar** - R$27.0
+   - Panqueca de banana e aveia sem adição de açúcar. [Sem Açúcar]
+
+7. **Yakissoba de legumes** - R$38.0
+   - Macarrão oriental com mix de legumes e tofu.
+
+8. **Espaguete de abobrinha ao pesto** - R$36.0
+   - Tiras de abobrinha com molho pesto e nozes.
+
+9. **Bowl de açaí sem açúcar** - R$28.0
+   - Açaí puro com frutas e granola sem adição de açúcar. [Sem Açúcar]
+
+10. **Tofu ao molho agridoce** - R$40.0
+    - Cubos de tofu com molho agridoce e gergelim.
+
+Aproveite sua refeição! Se precisar de mais informações, estou aqui para ajudar. 🍽️
+--------------------
+
+--- FIM DO TESTE 4 ---
+
+============================================================
+
+--- INÍCIO DO TESTE 5 ---
+
+PERGUNTA: Quero um almoço prático, sou intolerante a lactose
+
+RESPOSTA DO AGENTE:
+--------------------
+Aqui estão algumas opções deliciosas para o seu almoço sem lactose:
+
+1. **Camarão ao curry apimentado** - Camarões salteados em molho curry picante com leite de coco sem lactose. (R$ 52,50)
+
+2. **Tofu apimentado com mix de legumes** - Cubos de tofu grelhado com mix de legumes e pimenta caiena. (R$ 38,00)
+
+3. **Strogonoff de frango sem lactose** - Frango desfiado ao molho cremoso sem lactose. (R$ 53,00)
+
+4. **Peito de frango grelhado com legumes no vapor** - Frango grelhado servido com legumes levemente temperados. (R$ 42,00)
+
+5. **Salada Caesar sem lactose** - Alface, frango grelhado, croutons e molho Caesar sem lactose. (R$ 34,00)
+
+Se precisar de mais informações ou outras sugestões, é só avisar!
+--------------------
+
+--- FIM DO TESTE 5 ---
+
+============================================================
+
+--- INÍCIO DO TESTE 6 ---
+
+PERGUNTA: Quero o prato mais barato
+
+RESPOSTA DO AGENTE:
+--------------------
+O prato mais barato disponível no nosso cardápio é a **Panqueca de banana sem açúcar**, que custa R$ 27,00. 
+
+Descrição: Panqueca de banana e aveia sem adição de açúcar.
+
+Tags: Sem açúcar, Vegano.
+
+Se precisar de mais alguma coisa, estou à disposição!
+--------------------
+
+--- FIM DO TESTE 6 ---
+
+============================================================
+
