@@ -2,9 +2,9 @@
 
 ## Visão Geral do Projeto
 
-Este repositório contém a implementação de um agente conversacional de IA, desenvolvido como solução para o "Case - Agente IA". O objetivo é fornecer um assistente que recomenda refeições de um cardápio local (arquivo `cardapio.json`) com base nas solicitações do usuário em linguagem natural.
+Este repositório contém a implementação de um agente conversacional de IA. O objetivo é fornecer um assistente que recomenda refeições de um cardápio local (arquivo `cardapio.json`) com base nas solicitações do usuário em linguagem natural.
 
-O projeto utiliza o [Agents SDK](https://openai.github.io/openai-agents-python/) da OpenAI que se estende da [Responses API](https://openai.com/index/new-tools-for-building-agents/) requerida no case. Para consulta e classificação dos pratos foi feita uma tool de busca que o agente interage.
+O projeto utiliza o [Agents SDK](https://openai.github.io/openai-agents-python/) da OpenAI que se estende da [Responses API](https://openai.com/index/new-tools-for-building-agents/). Para consulta e classificação dos pratos foi feita uma tool de busca que o agente interage.
 
 ## 1. Instalação e Configuração do Ambiente
 
