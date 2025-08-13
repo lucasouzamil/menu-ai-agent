@@ -18,8 +18,8 @@ O projeto utiliza o [Agents SDK](https://openai.github.io/openai-agents-python/)
 #### Clonar o Repositório
 
 ```bash
-git clone https://github.com/lucasouzamil/case-trela-ai-agent
-cd case-trela-ai-agent
+git clone https://github.com/lucasouzamil/menu-ai-agent
+cd menu-ai-agent
 ```
 
 #### Criar e Ativar um Ambiente Virtual
@@ -133,11 +133,11 @@ O principal ponto desta solução é um prompt que:
 2.  Contém **regras** para traduzir conceitos semânticos (como "saudável" ou "proteína") para buscas por palavras-chave.
 3.  Instrui o agente a **ignorar termos subjetivos** ("prático", "rápido") que não têm correspondência nos dados.
 
-### Abordagem 3: Estruturar os Dados (A Solução Ideal para a Trela)
+### Abordagem 3: Estruturar os Dados
 
-Supondo que a Trela possui controle total sobre seu catálogo de produtos, a solução mais escalável e eficiente seria enriquecer os dados.
+Supondo que o cliente para o qual essa solução será implementada possui controle total sobre seu catálogo de produtos, a solução mais escalável e eficiente seria enriquecer os dados.
 
-Em vez de depender da engenharia de prompt se adequar a um JSON genérico, os produtos no banco de dados da Trela poderiam ser estruturados com campos para busca, como `categorias`, `tags_dieteticas`, `atributos` (ex: "grelhado", "assado"), etc.
+Em vez de depender da engenharia de prompt se adequar a um JSON genérico, os no banco de dados poderiam ser estruturados com campos para busca, como `categorias`, `tags_dieteticas`, `atributos` (ex: "grelhado", "assado"), etc.
 
 Com dados estruturados, a ferramenta do agente melhoraria:
 -   A função `buscar_cardapio` executaria uma **query** em um banco de dados (ex: `SELECT * FROM produtos WHERE ...`).
@@ -145,7 +145,7 @@ Com dados estruturados, a ferramenta do agente melhoraria:
 
 ### Abordagem 4: Busca Semântica e RAG (Para Catálogos Não Estruturados)
 
-No cenário em que a Trela não tivesse controle sobre a estrutura dos dados, o maior problema seria fazer o match de semântica do prompt do usuário com os produtos disponíveis.
+No cenário em que o cliente não tivesse controle sobre a estrutura dos dados, o maior problema seria fazer o match de semântica do prompt do usuário com os produtos disponíveis.
 
 A solução adequada seria a implementação de umm classificador mais robusto de NLP como BERT (vetoriza os dados) e talvez até algo parecido com um RAG.
 
